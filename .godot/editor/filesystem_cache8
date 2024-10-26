@@ -1,0 +1,8 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1729953144
+bramka.gd::GDScript::-1::1729950902::0::1::::<>Area2D<>::
+CharacterBody2D.gd::GDScript::-1::1729947085::0::1::::<>CharacterBody2D<>::
+global.gd::GDScript::-1::1729948319::0::1::::<>Node<>::
+icon.svg::CompressedTexture2D::3180755972449629309::1729936666::1729953145::1::::<><>::
+Label.gd::GDScript::-1::1729948388::0::1::::<>Label<>::
+start.tscn::PackedScene::7899859584517861578::1729950902::0::1::::<><>::res://CharacterBody2D.gd<>uid://blk1t6ud83d6d::::res://icon.svg<>res://Label.gd<>res://bramka.gd
